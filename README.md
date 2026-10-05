@@ -1,5 +1,7 @@
 
 # 📊 Comparing Readability and Sentiment Analysis to Predict Mental Health Severity on Reddit Data
+
+> **Maintained by [Jennita S](https://github.com/Jennita-Santhakumar)** · [LinkedIn](https://linkedin.com/in/jennitas) · jennitasanthakumar0@gmail.com
 **Author:** A. Kabilesh Rajaselvan
 **Reg. No:** 21MIA1132
 **Institution:** VIT Chennai – SCOPE School
@@ -205,3 +207,7 @@ Run with `python -m pytest tests/ -q`.
 - Random seeds are fixed (42) throughout for reproducibility.
 - To use a real dataset, add `data/real_dataset.csv` with columns
   `text,severity` — no code changes required.
+
+## Credits
+
+Developed by Kabilesh Rajaselvan with contributions from Jennita S.
